@@ -8,7 +8,7 @@
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about JavaScript, Python and PHP. ⚡🐍🐘
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I play Cricker, Badminton and the Card! 🏏🎾🃏
+- ⚡ Fun fact: I play Cricket, Badminton and the Card! 🏏🎾🃏
 
 <hr>
 <Br>
