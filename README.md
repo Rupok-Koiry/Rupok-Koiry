@@ -14,8 +14,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Cricket, Badminton, and the Card! 🏏🎾🃏
   
-<hr>
-
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
