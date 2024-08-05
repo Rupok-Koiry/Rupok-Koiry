@@ -13,8 +13,10 @@
 - 💬 Ask me about JavaScript, Python, and PHP. ⚡🐍🐘
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Cricket, Badminton, and the Card! 🏏🎾🃏
+  
 <hr>
-### ⚙️ &nbsp;GitHub Analytics
+
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/Rupok-Koiry">
