@@ -19,8 +19,8 @@
 </p>
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/Niloykoiry">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Niloykoiry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Niloykoiry&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Rupok-Koiry">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rupok-Koiry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rupok-Koiry&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
