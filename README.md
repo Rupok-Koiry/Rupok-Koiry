@@ -4,7 +4,7 @@
 </h1>
 <br>
 
-<h1>About Me! 😎</h1>
+<h2>About Me! 😎</h2>
 
 - 🏫 I'm a University Student.
 - 🔭 Currently working as a backend developer at Node Technologies, USA.
@@ -13,10 +13,7 @@
 - 💬 Ask me about JavaScript, Python, and PHP. ⚡🐍🐘
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Cricket, Badminton, and the Card! 🏏🎾🃏
-
 <hr>
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
