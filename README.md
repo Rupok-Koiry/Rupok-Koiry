@@ -1,8 +1,4 @@
-# 👋 Hi there, I'm [Rupok Koiry](https://github.com/Rupok-Koiry)
-
-<div align="center">
-  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" alt="Waving Hand" />
-</div>
+# <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" alt="Waving Hand" /> Hi there, I'm [Rupok Koiry](https://github.com/Rupok-Koiry)
 
 ## 🚀 About Me
 
