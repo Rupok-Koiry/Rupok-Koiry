@@ -3,7 +3,6 @@
 ## 🚀 About Me
 
 - 🎓 University Student passionate about technology
-- 💼 Backend Developer at Node Technologies, USA
 - 🌱 Enthusiastic learner always exploring new technologies
 - 💡 Expertise in JavaScript, Python, and PHP
 - 🤝 Open to collaborations and always eager to help fellow developers
@@ -21,8 +20,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rupok-Koiry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rupok-Koiry&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rupok-Koiry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rupok-Koiry&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 🏆 Achievements
@@ -42,7 +41,7 @@
 - 🏏 Cricket enthusiast
 - 🏸 Badminton player
 - 🃏 Card game strategist
-- 📚 Avid reader of tech blogs and sci-fi novels
+- 🍿 Movie and series lover
 
 ## 📬 Get in Touch
 
